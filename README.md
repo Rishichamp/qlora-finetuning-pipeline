@@ -76,3 +76,7 @@ pytest tests/ -q
 ## Notes
 
 The sample data is intentionally small (35 training and 6 evaluation examples), enough to exercise the pipeline. Built as part of Module 6 of a Generative AI engineering programme.
+
+## Author
+
+**Rishi Singh** — [GitHub](https://github.com/Rishichamp)
